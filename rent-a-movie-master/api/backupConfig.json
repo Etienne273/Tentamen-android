@@ -1,8 +1,0 @@
-{
-  "webPort": "8080",
-  "dbServer": "localhost",
-  "dbUsername": "root",
-  "dbPassword": "",
-  "dbSchema": "tentamen4",
-  "secretkey":  "SecretKeyForProgramExam-01928738-"
-}
